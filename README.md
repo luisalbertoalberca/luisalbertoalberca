@@ -74,10 +74,6 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
   </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/english.png" alt="Inglés básico" width="40" height="40" />
-    Inglés básico
-  </a>
 </p>
 
 <p align="center">
