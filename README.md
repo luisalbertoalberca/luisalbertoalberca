@@ -77,6 +77,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisalbertoalberca&show_icons=true&locale=en" alt="luisalbertoalberca" />
+  <img src="https://github-profile-trophy.vercel.app/?username=luisalbertoalberca" alt="GitHub Trophy" />
 </p>
-
