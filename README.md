@@ -19,7 +19,7 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-  <a href="[https://dev.to/devluisalberca](https://luisalbertoalberca.github.io/DevLuisAlberca/)" target="_blank">
+  <a href="https://dev.to/devluisalberca" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devluisalberca" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/luisalbertoalberca" target="_blank">
