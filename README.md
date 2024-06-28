@@ -30,7 +30,7 @@
 5 months ago
 
 Update Github profile and add gitub actions for youtube cards
-![Condor Coders' GitHub stats](https://github-readme-stats.vercel.app/api?username=condorcoders&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=condorcoders&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=condorcoders&layout=compact&theme=dark)
 
 ## Contacto
 
