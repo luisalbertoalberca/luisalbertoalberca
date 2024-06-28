@@ -5,9 +5,10 @@
 🌱 Aprendiendo **TypeScript** y explorando **Node.js y React**.  
 👯 Buscando colaborar en **proyectos emocionantes**.  
 💬 Pregúntame sobre **HTML, CSS, JavaScript y Node.js**.  
-⚡ Soy multitarea 🤹‍♂️
+⚡ Soy multitarea 🤹‍♂️ con sólidos conocimientos en **metodologías ágiles** y **trabajo en equipo**.
 
-## Tecnologias 💻
+## Tecnologías 💻
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -15,6 +16,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 <br/>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -22,9 +24,8 @@
 <br/>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## Las estadisticas del repositorio
+## Las estadísticas del repositorio
 
-Update Github profile and add gitub actions for youtube cards
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisalbertoalberca&layout=compact&theme=dark)
 
 ## Contacto
