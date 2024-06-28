@@ -40,7 +40,6 @@
 </head>
 <body>
     <div class="header">
-        <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" width="100" alt="Header Image">
         <h1>Luis Alberto Alberca</h1>
         <p>Desarrollador Web en Perú</p>
     </div>
@@ -74,4 +73,3 @@
     </div>
 </body>
 </html>
-
