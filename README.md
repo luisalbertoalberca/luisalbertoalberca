@@ -1,8 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=luisalbertoalberca">
+<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=luisalbertoalberca&left_color=green&right_color=red">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola,+¡Bienvenido!+👋;Soy+Luis+Alberto+Alberca....;¡Encantado+de+conocerte!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola,+¡Bienvenido!+👋; Soy+Luis+Alberto+Alberca....;¡Encantado+de+conocerte!&center=true&size=30">
   </a>
 </h1>
 
