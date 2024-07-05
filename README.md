@@ -41,5 +41,7 @@
 <a href="https://github.com/devluisalberca" target="_blank">GitHub</a> | <a href="https://linkedin.com/in/luisalbertoalberca" target="_blank">LinkedIn</a>
 
 <p align="center">
+  Visitor count
+  <br>
   <img src="https://profile-counter.glitch.me/luisalbertoalberca/count.svg" />
 </p>
