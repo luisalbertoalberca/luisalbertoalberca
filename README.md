@@ -1,6 +1,10 @@
-<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=luisalbertoalberca&left_color=green&right_color=red">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=luisalbertoalberca">
 
-# Luis Alberto Alberca - Desarrollador Web
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola,+¡Bienvenido!+👋;Soy+Luis+Alberto+Alberca....;¡Encantado+de+conocerte!&center=true&size=30">
+  </a>
+</h1>
 
 ## Sobre Mí
 
