@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=luisalbertoalberca&left_color=green&right_color=red">
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola,+¡Bienvenido!+👋;Soy+Luis+Alberto+Alberca....;¡Encantado+de+conocerte!&center=true&size=30">
@@ -41,3 +39,7 @@
 ## Conéctate Conmigo
 
 <a href="https://github.com/devluisalberca" target="_blank">GitHub</a> | <a href="https://linkedin.com/in/luisalbertoalberca" target="_blank">LinkedIn</a>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/luisalbertoalberca/count.svg" />
+</p>
