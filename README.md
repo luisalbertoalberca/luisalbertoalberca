@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=luisalbertoalberca">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=luisalbertoalberca.luisalbertoalberca"><img align="right" src="https://visitor-badge.glitch.me/badge?page_id=luisalbertoalberca&left_color=green&right_color=red">
 
 # Luis Alberto Alberca - Desarrollador Web
 
