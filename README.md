@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=github.com/luisalbertoalberca">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=github.com/luisalbertoalberca/luisalbertoalberca">
 
 # Luis Alberto Alberca - Desarrollador Web
 
