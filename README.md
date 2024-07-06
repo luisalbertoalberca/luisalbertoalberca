@@ -40,8 +40,6 @@
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
   <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Node.js" height="25" src="images/nodejs.svg"></code>
-  <code><img title="TypeScript" height="25" src="images/typescript.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
@@ -52,7 +50,8 @@
   </p>
 <hr>
 
-## Las estadísticas del repositorio
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisalbertoalberca&layout=compact&theme=dark)
 
