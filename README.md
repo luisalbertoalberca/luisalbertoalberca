@@ -13,9 +13,9 @@
   Hi, I'm Luis Alberto Alberca, a Web Developer from Peru.
   <br>
   <br>
-  🔬 I am currently pursuing my degree through an innovative productive project, Department of Informatics.
+  🔬 I am currently pursuing my degree through an innovative productive project.
   <br>
-  🎓 I obtained the degree of Technical Bachelor in Information Systems Development, Department of Informatics.
+  🎓 I obtained a technical degree in information systems development.
   <br>
   📚 Currently, I am learning TypeScript and exploring Node.js, React, and Python.
   <br>
