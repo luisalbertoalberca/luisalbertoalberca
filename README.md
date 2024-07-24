@@ -15,7 +15,7 @@
   <br>
   🔬 I am currently pursuing my degree through an innovative productive project.
   <br>
-  🎓 I obtained a technical degree in information systems development.
+  🎓 I obtained a technical degree in Information Systems Development.
   <br>
   📚 Currently, I am learning TypeScript and exploring Node.js, React, and Python.
   <br>
