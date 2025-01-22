@@ -6,7 +6,7 @@
 
 <h5 align="center">
   <a href="https://www.linkedin.com/in/luisalbertoalberca/" title="LinkedIn Profile"><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a>
-  <a href="https://www.instagram.com/luis_itunes/" title="Instagram Profile"><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg"> Instagram</a>
+  <a href="https://www.instagram.com/luis_itunes/" title="Instagram Profile"><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram.svg"> Instagram</a>
 </h5>
 <br>
 <p align="center">
