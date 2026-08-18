@@ -1,3 +1,11 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Luis+Alberto+Alberca;Software+Developer+%7C+Enterprise+%7C+E-commerce+Systems;Java+%7C+JavaScript+%7C+MySQL+%7C+APIs;Building+scalable+solutions+from+Peru+🇵🇪" />
+</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Luis%20Alberto%20Alberca&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h1 align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hello+👋;I'm+Luis+Alberto+Alberca;Web+Developer+%7C+Tech+Enthusiast;Welcome+to+my+GitHub!+🚀" alt="Typing SVG" />
 </h1>
