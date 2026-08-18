@@ -57,15 +57,6 @@ Hi, I'm Luis Alberto Alberca 👋
 ## 📊 GitHub Stats
 
 <div align="center">
-  <p align="center">
-
-<img width="420" src="https://streak-stats.demolab.com/?user=luisalbertoalberca&theme=tokyonight&hide_border=true&border_radius=10" />
-
-<img width="420" src="https://github-readme-stats.vercel.app/api?username=luisalbertoalberca&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" />
-
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisalbertoalberca&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" />
-
-</p>
   <img width="390" src="https://streak-stats.demolab.com/?user=luisalbertoalberca&theme=react&hide_border=true&border_radius=10" alt="streak stats"/>
 </div>
 
