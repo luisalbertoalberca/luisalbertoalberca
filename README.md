@@ -82,10 +82,6 @@ Hi, I'm Luis Alberto Alberca 👋
   </a> 
 </p>
 
----
-
-## 👀 Visitor Count
-
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /> 
 </p>
